@@ -47,7 +47,7 @@ Due to large file sizes, trained machine learning models are stored separately.
    ```bash
    backend/techdivathon
 ### Datasets:
-[Dataset link](https://drive.google.com/drive/folders/1Q4h-OD16tZmZHigsVw0uHhgHvpJgiJa0?usp=sharing)
+Download from google drive : [Dataset link](https://drive.google.com/drive/folders/1Q4h-OD16tZmZHigsVw0uHhgHvpJgiJa0?usp=sharing)
 
 ## Screenshots
 
