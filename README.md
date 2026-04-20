@@ -37,12 +37,12 @@ Users can also:
 Due to large file sizes, trained machine learning models are stored separately.
 
 ### Download from Google Drive:
-1. [Models_1 link](https://drive.google.com/drive/folders/1KxEWqsR0nbvJ0V-dMQ_FjoEwReGpUVUq?usp=sharing) <br>
+1. [Clich here for Model 1 link](https://drive.google.com/drive/folders/1KxEWqsR0nbvJ0V-dMQ_FjoEwReGpUVUq?usp=sharing) <br>
   After downloading, place them inside 👇 
    ```bash
    backend/models
 
-2. [Models_2 link](https://drive.google.com/drive/folders/1EXFI-rhOCemG7x570iptDgfs_dxtmgHB?usp=sharing) <br>
+2. [Click here for Model 2 link](https://drive.google.com/drive/folders/1EXFI-rhOCemG7x570iptDgfs_dxtmgHB?usp=sharing) <br>
  After downloading, place them inside 👇 
    ```bash
    backend/techdivathon
